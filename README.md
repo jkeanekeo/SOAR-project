@@ -2,7 +2,7 @@
 
 ## Description
 This project integrates Lima Charlie (EDR) with Tines (SOAR) to create an automated workflow for detecting and responding to security threats. It's part of a series focusing on building a Security Operations Center (SOC) workflow.
-
+Lazagne: https://github.com/AlessandroZ/LaZagne
 ## Features
 - Automated detection using Lima Charlie EDR
 - Integration with Tines for orchestration and response
